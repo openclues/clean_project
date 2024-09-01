@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
-import '../error/failure.dart';
+import '../../error/failure.dart';
 
 /*
 Install the following package:
